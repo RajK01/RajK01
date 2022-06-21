@@ -7,5 +7,5 @@
 - 💬 Ask me about Flask, Bootstrap
 - 📫 How to reach me: kumarrajeev66797@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
