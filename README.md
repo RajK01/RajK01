@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Machine Leaning concepts
 - 💬 Ask me about Flask, Bootstrap
 - 📫 How to reach me: kumarrajeev66797@gmail.com
-- 😄 Pronouns: ...
+<!--- 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
