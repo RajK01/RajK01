@@ -1,4 +1,4 @@
-### Hello, 👋 I'm Rajeev Kumar
+#### Hello, 👋 I'm Rajeev Kumar
 
 - 🔭 I’m currently doing MSc Computer Science from NIT Trichy
 - 🌱 I’m currently learning computer science fundamentals
