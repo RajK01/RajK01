@@ -10,7 +10,6 @@
 -->
 
 <h1 align="center">Hello 👋, I'm Rajeev Kumar</h1>
-<h3 align="center">A passionate person from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
 
