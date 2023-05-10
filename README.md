@@ -1,7 +1,7 @@
 <!--## Hello, 👋 I'm Rajeev Kumar
 
 - 🔭 I’m currently doing MSc Computer Science from NIT Trichy
-- 🌱 I’m currently learning computer science fundamentals
+- 🌱 I’m currently learning computer science fundamentals & ML, DL, AL
 - 📫 How to reach me: kumarrajeev66797@gmail.com
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: 
