@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently doing **MSc Computer Science from NIT Trichy**
 
-- 🌱 I’m currently learning **computer science fundamentals & ML, DL, AL**
+- 🌱 I’m currently learning **computer science fundamentals**
 
 - 📫 How to reach me **kumarrajeev66797@gmail.com**
 
