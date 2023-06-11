@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
 
-- 🔭 I’m currently doing **MSc Computer Science from NIT Trichy**
+- 🔭 Completed **MSc Computer Science from NIT Trichy**
 
-- 🌱 I’m currently learning **computer science fundamentals**
+- 🌱 Learning **computer science fundamentals**
 
 - 📫 How to reach me **kumarrajeev66797@gmail.com**
 
