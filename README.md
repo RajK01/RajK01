@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
 
-- 🔭 Completed **MSc Computer Science from NIT Trichy**
+- 🔭 **MSc Computer Science from NIT Trichy**
 
 - 🌱 Learning **computer science fundamentals**
 
