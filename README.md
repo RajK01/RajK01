@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
 
-- 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd., Delhi
+- 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd, Delhi
 - 🎀 **MSc Computer Science from NIT Trichy**
 - 🌱 Learning **computer science fundamentals**
 - 📫 How to reach me **kumarrajeev66797@gmail.com**
