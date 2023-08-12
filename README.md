@@ -17,7 +17,7 @@
 - 🎀 MSc Computer Science from National Institute of Technology, Tiruchirappalli.
 - 🌱 I’m currently working on PHP and writing proposals.
 - 📫 How to reach me **kumarrajeev66797@gmail.com**
-- ⚡ Fun fact: Talk with me, I am kinda awesome.
+
   ## I can and I will!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
