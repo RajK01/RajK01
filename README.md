@@ -14,7 +14,7 @@
 
 - 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd.
 - 🏆 My primary coding and problem-solving language: is C++
-- 🎀 **MSc Computer Science from National Institute of Technology, Tiruchirappalli.**
+- 🎀 MSc Computer Science from National Institute of Technology, Tiruchirappalli.
 - 🌱 I’m currently working on PHP and writing proposals.
 - 📫 How to reach me **kumarrajeev66797@gmail.com**
 - ⚡ Fun fact: Talk with me, I am kinda awesome.
