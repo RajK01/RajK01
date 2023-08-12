@@ -18,6 +18,7 @@
 - 🌱 I’m currently working on PHP and writing proposals.
 - 📫 How to reach me **kumarrajeev66797@gmail.com**
 - ⚡ Fun fact: Talk with me, I am kinda awesome.
+  ## I can and I will!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajeev-kumar-nitt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-kumar-nitt/" height="30" width="40" /></a>
