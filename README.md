@@ -13,9 +13,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
 
 - 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd, Delhi
-- 🏆 My primary coding and problem solving language: C++
+- 🏆 My primary coding and problem-solving language: is C++
 - 🎀 **MSc Computer Science from NIT Trichy**
-- 🌱 Learning **computer science fundamentals**
+- 🌱 I’m currently working on PHP and writing proposals.
 - 📫 How to reach me **kumarrajeev66797@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
