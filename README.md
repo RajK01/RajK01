@@ -1,14 +1,5 @@
-<!--## Hello, 👋 I'm Rajeev Kumar
-
-- 🔭 MSc Computer Science from NIT Trichy
-- 🌱 I’m currently learning computer science fundamentals & ML, DL, AL
-- 📫 How to reach me: kumarrajeev66797@gmail.com
-<!-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)
--->
-
-<h2 align="center">Hello World, I'm Rajeev 👋</h2>
+<h2 align="center">Hello World, I'm Rajeev👋</h2>
+<h3 align="left">Welcome to my GitHub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
 
@@ -16,7 +7,7 @@
 - 🏆 My primary coding and problem-solving language: is C++
 - 🎀 MSc Computer Science from National Institute of Technology, Tiruchirappalli.
 - 🌱 I’m currently working on PHP and writing proposals.
-- 📫 How to reach me **kumarrajeev66797@gmail.com**
+- 📫 How to reach me kumarrajeev66797@gmail.com
 
   ## I can and I will!
 <h3 align="left">Connect with me:</h3>
