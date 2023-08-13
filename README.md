@@ -1,7 +1,8 @@
 <h2 align="left">Hello World, I'm Rajeev👋</h2>
-<img align="right" alt="GIF" src="https://github.com/RajK01/RajK01/assets/97374811/2e88f744-2b30-461d-b9de-b74c4a284523" alt="rajk01" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://global-uploads.webflow.com/5e0ac69bad6badc677c5db21/6136efdd077934476ce23eb7_coder.gif"  width="420" height="320"/>
 <h3 align="left">Welcome to my GitHub</h3>
 <!-- ![image](https://github.com/RajK01/RajK01/assets/97374811/2e88f744-2b30-461d-b9de-b74c4a284523) -->
+
 
 - 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd.
 - 🏆 My primary coding and problem-solving language: is C++
