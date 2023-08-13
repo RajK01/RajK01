@@ -1,8 +1,7 @@
 <h2 align="left">Hello World, I'm Rajeev👋</h2>
+<img align="right" alt="GIF" src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" width="500" height="320"/>
 <h3 align="left">Welcome to my GitHub</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
--->
 - 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd.
 - 🏆 My primary coding and problem-solving language: is C++
 - 🎀 MSc Computer Science from National Institute of Technology, Tiruchirappalli.
