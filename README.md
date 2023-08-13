@@ -1,4 +1,4 @@
-<h2 align="center">Hello World, I'm Rajeev👋</h2>
+<h3 align="left">Hello World, I'm Rajeev👋</h3>
 <h3 align="left">Welcome to my GitHub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajk01&label=Profile%20views&color=0e75b6&style=flat" alt="rajk01" /> </p>
