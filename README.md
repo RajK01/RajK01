@@ -54,3 +54,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MobinaJafarian&label=Profile%20views&color=fe428e&style=plastic" alt="MobinaJafarian" /></p>
