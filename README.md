@@ -19,6 +19,9 @@
 <a href="https://www.youtube.com/c/https://youtube.com/@rajeevkumar-fb3in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rajeevkumar-fb3in" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/rajeev01091997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rajeev01091997" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/1raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/1raj/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21886447/rajeev-kumar" target="_blank" rel="noreferrer">
+<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png" alt="Stack Overflow" width="40" height="40"/></a>
+
 
 <h3 align="left">Technical Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
