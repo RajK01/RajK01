@@ -1,4 +1,8 @@
-<h2 align="left">Hello, There! I'm Rajeev👋</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Rajeev+Kumar...;A+Software+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
+  </a>
+</h1>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="530" height="360"/>
 <h3 align="left">Welcome to my GitHub</h3>
 <!-- ![image](https://github.com/RajK01/RajK01/assets/97374811/2e88f744-2b30-461d-b9de-b74c4a284523) -->
