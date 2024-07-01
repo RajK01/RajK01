@@ -3,8 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Rajeev+Kumar...;A+Software+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
   </a>
 </h1>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="360"/>
+<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="360"/> -->
 <h3 align="left">💫 Welcome to my GitHub</h3>
+# 💫 About Me:
+💡 I’m Mobina Jafarian, A Software Engineer who is looking to grow as a Back-end Developer<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
+🌱 I’m currently learning Go<br>
+💬 Ask me about PHP , Laravel<br>
+📫 You can contact me at mobina.nezhadjfarian@gmail.com
 
  💡 I am Rajeev Kumar, A Software Engineer who is looking to grow as a Back-end Developer
  🏆 My primary coding and problem-solving language is C++
