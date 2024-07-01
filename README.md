@@ -47,8 +47,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
-  # 📊 GitHub Stats:
-<h3 align="left">Support:</h3>
+## 📊 GitHub Stats:
 <!-- <p><a href="https://www.buymeacoffee.com/kumarrajeee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarrajeee" /></a></p><br><br> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajk01&show_icons=true&locale=en&layout=compact" alt="rajk01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajk01&show_icons=true&locale=en" alt="rajk01" /></p>
