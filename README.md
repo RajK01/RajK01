@@ -12,9 +12,9 @@
 🎀 Completed Master's degree in Computer Science from NIT Trichy.<br>
 📫 You can connect me at kumarrajeev66797@gmail.com<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
-
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajeev-kumar-nitt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-kumar-nitt/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/riyara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/riyara" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@rajeevkumar-fb3in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rajeevkumar-fb3in" height="30" width="40" /></a>
