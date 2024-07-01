@@ -10,7 +10,7 @@
 🌱 I’m currently working on Python, HTML, CSS, JS and PHP<br>
 <!-- 💬 Ask me about PHP , Laravel<br> -->
 🎀 Completed Master's degree in Computer Science from NIT Trichy.<br>
-📫 How to reach me kumarrajeev66797@gmail.com<br>
+📫 You can connect me at kumarrajeev66797@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
