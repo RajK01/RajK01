@@ -5,10 +5,10 @@
 <!--https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true-->
 <!--https://global-uploads.webflow.com/5e0ac69bad6badc677c5db21/6136efdd077934476ce23eb7_coder.gif-->
 
-- 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd.
-- 🏆 My primary coding and problem-solving language: is C++
-- 🎀 MSc Computer Science from National Institute of Technology, Tiruchirappalli.
+- 💡 I am Rajeev Kumar, A Software Engineer who is looking to grow as a Back-end Developer
+- 🏆 My primary coding and problem-solving language is C++
 - 🌱 I’m currently working on Python, HTML, CSS, JS and PHP.
+- 🎀 Completed Master's degree in Computer Science from NIT Trichy.
 - 📫 How to reach me kumarrajeev66797@gmail.com
 
 <h3 align="left">Connect with me:</h3>
