@@ -51,3 +51,6 @@
 <!-- <p><a href="https://www.buymeacoffee.com/kumarrajeee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarrajeee" /></a></p><br><br> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajk01&show_icons=true&locale=en&layout=compact" alt="rajk01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajk01&show_icons=true&locale=en" alt="rajk01" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
