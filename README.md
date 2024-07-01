@@ -11,7 +11,6 @@
 <!-- 💬 Ask me about PHP , Laravel<br> -->
 🎀 Completed Master's degree in Computer Science from NIT Trichy.<br>
 📫 You can connect me at kumarrajeev66797@gmail.com<br>
-📫 You can contact me at mobina.nezhadjfarian@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
