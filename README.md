@@ -7,8 +7,8 @@
 <h2 align="left">💫 Welcome to my GitHub</h2>
 💡 I am Rajeev Kumar, A Software Engineer who is looking to grow as a Full-Stack Developer<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
 🏆 My primary coding and problem-solving language is C++<br>
-💙 I love developing and researching
-🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
+💙 I love developing and researching<br>
+🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills<br>
 🌱 I’m currently working on Python, HTML, CSS, JS and PHP<br>
 <!-- 💬 Ask me about PHP , Laravel<br> -->
 🎀 Completed Master's degree in Computer Science from NIT Trichy.<br>
