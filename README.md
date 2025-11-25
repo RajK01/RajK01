@@ -5,13 +5,9 @@
 </h1>
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="360"/> -->
 <h2 align="left">💫 Welcome to my GitHub</h2>
-💡 I am Rajeev Kumar, A Software Engineer who is looking to grow as a Full-Stack Developer<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
-🏆 My primary coding and problem-solving language is C++<br>
+💡 I am Rajeev Kumar, A Software Engineer.<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
+🏆 My primary coding and problem-solving language is C++, Java<br>
 💙 I love developing and researching<br>
-🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills<br>
-🌱 I’m currently working on Python, HTML, CSS, JS and PHP<br>
-💬 Ask me about Streamlit framework for quick website developemt<br>
-🎀 Completed Master's degree in Computer Science from NIT Trichy.<br>
 📫 You can connect me at kumarrajeev66797@gmail.com<br>
 
 ## 🌐 Socials:
